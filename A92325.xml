@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Exact and full relation of all the proceedings between the cavaliers, and the Northamptonshire forces at Banbury. VVith the present state and condition which that country is in at this present. VVhereunto is added the articles of agreement, made at Banbury, for a pacification, and setling of the peace of that county, by the commissioners of Array and the deputy lieutenants of the said county.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92325</idno>
+            <idno type="STC">Wing R71</idno>
+            <idno type="STC">Thomason E84_10</idno>
+            <idno type="STC">ESTC R12383</idno>
+            <idno type="EEBO-CITATION">99859275</idno>
+            <idno type="PROQUEST">99859275</idno>
+            <idno type="VID">155648</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92325)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155648)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 14:E84[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Exact and full relation of all the proceedings between the cavaliers, and the Northamptonshire forces at Banbury. VVith the present state and condition which that country is in at this present. VVhereunto is added the articles of agreement, made at Banbury, for a pacification, and setling of the peace of that county, by the commissioners of Array and the deputy lieutenants of the said county.</title>
+                  <author>S. R.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for I. Wright in the Old-Bailey,</publisher>
+                  <pubPlace>[London]Ian. 4 :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: S.R.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Banbury (Oxfordshire) --  History --  Early works to 1800.</term>
+               <term>Cheshire (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155648:1"/>
+            <pb facs="tcp:155648:1" rendition="simple:additions"/>
+            <p>AN EXACT And full RELATION Of all the proceedings between the Cavaliers, and the <hi>Northampton<g ref="char:EOLhyphen"/>ſhire</hi> forces at <hi>Banbury.</hi>
+            </p>
+            <p>VVith the preſent ſtate and con<g ref="char:EOLhyphen"/>dition which that Country is in at this preſent.</p>
+            <p>VVhereunto is added the Arti<g ref="char:EOLhyphen"/>cles of agreement, made at <hi>Banbury,</hi> for a Pacification, and ſetling of the Peace of that County, by the Commiſſioners of <hi>Array</hi> and the Deputy Lieutenants of the ſaid County.</p>
+            <p>
+               <hi>Ian.</hi> 4. Printed for <hi>I. Wright</hi> in the Old-Bailey, 1643.</p>
+            <pb facs="tcp:155648:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:155648:2"/>
+            <head>A TRVE RELATION of the preſent Condition of BANBURY.</head>
+            <opener>
+               <salute>Brother,</salute>
+            </opener>
+            <p>MY deſire is to let you underſtand the ſtate and condition that our Countie is in at this pre<g ref="char:EOLhyphen"/>ſent. It was true that you heard, that <hi>Northamp<g ref="char:EOLhyphen"/>tonſhire</hi> men came into <hi>Banbury,</hi> but they ſtayed not, for the Major having yeelded the Towne before unto the King, would not ſhew them any countenance, and ſo they left the Towne preſently, and went away againe the ſame day that they came in. And my Lord of <hi>Northamp<g ref="char:EOLhyphen"/>ton</hi> came in upon the morrow, and tooke poſſeſſion of the Towne and Caſtle, where he hath continued ever ſince, untill it was Tueſday night laſt 22. day, and then drew all his Forces out of the Towne towards <hi>Oxford</hi> in the night, but onely his Foot, and they went all into the Caſtle, and carryed in all the proviſion that they could come by in thither, and left the Towne open. <hi>Northamptonſhire</hi> men kept themſelves together all this while, and came againe to <hi>Byfield,</hi> a Towne ſix miles from <hi>Banbury,</hi> where they lay for a weeke: but ſo ſoone as they heard that my Lord of <hi>Northampton</hi> was gone out of <hi>Banbury,</hi> they preſently advanced forward, and made for <hi>Banbury</hi> againe, and came before the Towne upon Wedneſday in the afternoone about three
+<pb facs="tcp:155648:3"/>
+of the clock, and came into the Towne over the Bridge. They in the Caſtle having foure Peeces of Ordnance, ſhot at them as faſt as they could all the time that they came in, but yet it pleaſed God to preſerve them, that they came all ſafe into the Towne, only one Horſe kild, and a man hurt, and one man kild with Musket ſhot a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ter they came into Towne. They continued in the Towne that night and all day, on the morrow they were as was ſuppoſed about foure thouſand, all Countrymen, but one hundred of Sea-men: among them they brought two ſmall Peeces into the Towne with them, and ſent to <hi>Northampton</hi> for one more bigger, which came in upon Thurſday about twelve a clock. They ſhot at the Caſtle with their Musketiers all day Thurſday, and it was ſup<g ref="char:EOLhyphen"/>poſed they kild ſome that were upon the walls; and like<g ref="char:EOLhyphen"/>wiſe they ſhot from the walls all day, and with the Or<g ref="char:EOLhyphen"/>dnance from the Caſtle, but kild none, but hurt two or three. And upon Thurſday night they planted their great Peece againſt the Caſtle wall, and the two ſmaller Peeces againſt the Gate, but could not force it to make any en<g ref="char:EOLhyphen"/>trance at all<g ref="char:punc">▪</g> In the meane time, my Lord of <hi>Northampton</hi> brought all the Kings ſtrength of Horſe from <hi>Oxford,</hi> and came to <hi>Dedington,</hi> within foure miles of <hi>Banbury,</hi> on Thurſday night, where they lay all night in the Field<hi>:</hi> which <hi>Northampton</hi> ſhire men hearing and ſeeing they could not doe any good at the Caſtle, left the Towne againe, and marched away about foure a clock in the morning with their Ordnance, and the Kings Army of Horſe came in on Fryday, and quaild all the Countrey over on Fryday night, but returned towards <hi>Oxford</hi> againe in the morning, onely leaving ſome to keepe Garriſon in <hi>Ba<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bury;</hi> and ſo now our Condition is worſe <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen ever it was: for many ſhewed themſelves
+<pb facs="tcp:155648:3"/>
+forward to joyne with <hi>Northampton</hi> ſhire men, And now they being gone againe, wee are in more feares then ever wee were. I pray God in mercie look upon us, and put it into the heart of our King and Parliament, that there may be an accommodation for Peace, for otherwiſe our Countrey will be wholly ruinated in a ſhort time: Wee cannot enjoy any thing that is our owne. The Towne of <hi>Banbury,</hi> for the moſt part the chiefeſt men, are wholly undone all alreadie, and wee in the Countrey cannot long ſubſiſt: For wee have great Taxes layd upon us, and if wee will not pay them, our Selves and Goods are both taken away, I prayſe God I have my libertie yet, but doe not know how long I ſhall enjoy it, for I am in great feare of my ſelfe. I pray you ſend me a Grammar for my Boy; and I would entreat you to ſend me word how the Citie doth ſtand affected: Wee heare, that it is much divided, and the greater and ſtronger partie is for the King, and that the Parliament is broken up. I pray you ſend me the truth as neere as you can of all things, as alſo concerning the Earle of <hi>Eſsex</hi> proceedings, for wee cannot heare any thing from him, which doth much diſcourage our County at this preſent.</p>
+            <closer>
+               <dateline>
+                  <date>29. <hi>Decemb.</hi> 1642.</date>
+               </dateline>
+               <signed>So I reſt your Brother to command, <hi>S. R.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="peace_treaty">
+            <pb facs="tcp:155648:4"/>
+            <opener>
+               <dateline>
+                  <date>Viceſimo tertio die Decemb. 1642.</date>
+               </dateline>
+            </opener>
+            <head>An Agreement made the day above at <hi>Banbury</hi> in the County of <hi>Cheſter,</hi> for a Pacification, and ſetling of the Peace of that County, by us whoſe Names are ſubſcribed, Authoriſed hereunto by the <hi>Lords and Gentlemen nominated, Com<g ref="char:EOLhyphen"/>miſſioners of Array, and Deputie Lieutenants of the ſa<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d Countie.</hi>
+            </head>
+            <p n="1">1. IT is agreed that there be an abſolute Ceſſation of Armes from henceforth within this County, and no Armes be taken up to offend one another, but by the conſent of the King and both Houſes of Parliament, unles it be to reſiſt forces brought into the County.</p>
+            <p n="2">2. That all but 200. of either ſide ſhall be disbanded to morrow, being Saturday, and on Monday all the reſt on both ſides, both Horſe and Foote ſhall be diſbanded.</p>
+            <p n="3">3. That all Priſoners on both ſides be enlarged, as for Maſter <hi>Morton,</hi> who is now Priſoner at <hi>Manchester,</hi> the Gen<g ref="char:EOLhyphen"/>tlemen appoynted Deputy Lieutenants, doe declare, that hee was taken without their privitie, or encouragement, by ſome <hi>Mancheſter</hi> Troopes, upon a private quarell, for taking pow<g ref="char:EOLhyphen"/>der, and other goods belonging to one of <hi>Mancheſter,</hi> yet they will uſe the utmoſt endeavours to procure his enlargement, and doe deſire the like endeavours be uſed by the Lords and o<g ref="char:EOLhyphen"/>thers,
+<pb facs="tcp:155648:4"/>
+Commiſſioners of Array, for enlarging Maſter <hi>Daniel</hi> of <hi>Dasbury.</hi>
+            </p>
+            <p n="4">4. That the Fortifications of <hi>Chester, Namptuich, St<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pford<g ref="char:punc">▪</g> N<gap reason="illegible" extent="3+ letters">
+                     <desc>•••…</desc>
+                  </gap>ford,</hi> or any Towne in <hi>Cheſhire,</hi> lately made by either part, be preſently demoliſhed.</p>
+            <p n="5">5. That all Goods and Armes, taken on both ſides, now re<g ref="char:EOLhyphen"/>maining in the Countie <hi>in ſpecie,</hi> be forthwith reſtored, and for all others that are taken out of the Countie, it is promiſed on both parts, that ſince the benefit of this Pacification re<g ref="char:EOLhyphen"/>dounds to the whole Countie, that they will uſe their utmoſt endeavours for a joynt contribution of the County, towards ſatisfaction to the owners.</p>
+            <p n="6">6. That the Lords and Gentlemen, Commiſſioners of Ar<g ref="char:EOLhyphen"/>ray, before the eighth day of <hi>January</hi> next, procute from his Majeſtie a Letter, thereby declaring, That in regard a Peace is made in the Countie, he will ſend no Forces into this County; and if any other perſon ſhall contrary to ſuch Declarations bring Forces into the County (paſſage for Forces without do<g ref="char:EOLhyphen"/>ing any Hoſtile act onely excepted) the ſaid Lords and Gentle<g ref="char:EOLhyphen"/>men, will joyne to reſiſt them, and if any Forces, without the conſent of the King and both Houſes of Parliament, ſhall come into this Countie (the paſſages Forces without doing any Hoſtile act onely excepted) the ſaid Gentlemen nomina<g ref="char:EOLhyphen"/>ted Deputy Lieutenants, will joyne to reſiſt them, and uſe their utmoſt endeavours therein.</p>
+            <p n="7">7. In regard by the bleſſing of God, there is to be a Peace within the Countie if this agreement be. It is agreed that the Commiſſioners of Array, ſhall not any further put the Com<g ref="char:EOLhyphen"/>miſſion of Array in execution, nor the Gen<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lemen nominated Deputy Lieutenants the Ordinance of the <hi>Militia,</hi> or execute their Commiſſion.</p>
+            <p n="8">8. Laſtly, All the ſaid parties doe agree and promiſe each to other, in the word of a Gentleman, as they deſire to proſ<g ref="char:EOLhyphen"/>per; that as well themſelves, as alſo all their friends, tenants, ſervants, and all others in whom they have any intereſt, ſhall as much as in them lyes, performe the Agreement; And it is
+<pb facs="tcp:155648:5"/>
+further deſired, that all the ſaid parties joyne in a Petition to His M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>jeſtie, and both Houſes of Parliament, for putting an end to the greateſt diſtractions and miſeries fallen upon this Kingdome, by making a ſpeedy Peace: And it is agreed that Sir <hi>George Booth,</hi> and all others within this Countie, who have appeared as Commiſſioners of Array, or as Deputy Lieute<g ref="char:EOLhyphen"/>nants, by reaſon of the Ordinance of Parlament, ſhall with all convenient ſpeed ſubſcribe this Agreement.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Robert Kilmurrey.</item>
+                     <item>Orlando Br<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>dgeman.</item>
+                     <item>William Marbury.</item>
+                     <item>Henry Mainwaring.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
